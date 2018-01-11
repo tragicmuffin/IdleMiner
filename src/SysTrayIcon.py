@@ -1,10 +1,10 @@
 # Module     : SysTrayIcon.py
 # Synopsis   : Windows System tray icon.
-# Programmer : Simon Brunning - simon@brunningonline.net 
-#			   (adapted and converted to Python3 by Jesse Williams)
+# Programmer : Simon Brunning - simon@brunningonline.net
 # Date       : 11 April 2005 (20 December 2017)
 # Notes      : Based on (i.e. ripped off from) Mark Hammond's
 #              win32gui_taskbar.py and win32gui_menu.py demos from PyWin32
+# --- modified and converted to Python3 by Jesse Williams ---
 
 # Info on win32con and win32gui messages: https://msdn.microsoft.com/en-us/library/windows/desktop/ms644927(v=vs.85).aspx#system_defined
 
