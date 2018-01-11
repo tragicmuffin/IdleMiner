@@ -1,6 +1,6 @@
 # IdleMiner
 
-IdleMiner is a Windows program written in Python 3 for launching cryptocurrency mining programs automatically when the system is idle.
+IdleMiner is a Windows program written in Python 3 for launching cryptocurrency mining programs automatically when the system is idle. It is designed to run unobtrusively for use on a PC that is not a dedicated mining computer.
 
 The primary goal of IdleMiner was to create a Windows program that had some of the functionality of the [NiceHash Miner](https://github.com/nicehash/NiceHashMinerLegacy) clients, without actually using the NiceHash service. Specifically, a program that runs in the tray and begins mining automatically when the PC has been idle for a specified amount of time.
 
