@@ -1,0 +1,5 @@
+EXTRA_OPTIONS: {eexit: 3, intensity: 64, pass: z, port: 6666, templimit: 70}
+IDLE_TIMER: 300
+MINER_PATH: 
+POOL_SERVER: 
+USER_ADDRESS: 
